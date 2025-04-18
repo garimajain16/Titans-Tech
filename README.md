@@ -36,7 +36,7 @@ Google Translate API – For <b>multilingual support</b> (Hindi, English, French
 ---
 
 ## What Makes MindMitra Unique (Compared to Others)
-<b>Emotion Detection</b> using MindBERT to personalize replies.
+<b>Emotion Detection using MindBERT</b> to personalize replies.
 <b>Multilingual and Voice Enabled Chatbot.</b>
 Completely Offline ML Model (DialoGPT + MindBERT), no dependence on OpenAI’s paid API.
 Future Vision for Community & SOS, making it more than just a chatbot—<b><i>a mental health ecosystem.</i></b>
@@ -81,11 +81,6 @@ Support for in-depth therapy-style conversations (with safety filters).</li>
 
 
 
-# Stack Required:
-
-
----
-
-# Final Summary for Pitch (Use This for Hackathon Tomorrow):
+# Final Summary 
 
 > <b>“MindMitra</b> <i>is not just a chatbot</i>—it’s a comprehensive mental health assistant powered by AI. Currently running on DialoGPT and our custom <b>emotion model MindBERT</b>, it provides <b>voice-enabled, multilingual emotional support</b> etc. In the future, we’re integrating SOS crisis detection using fine-tuned BERT, and a safe community space for user interaction. With ChatGPT API in future integration, <b>MindMitra aims to evolve into an emotionally intelligent digital therapist, ensuring no one ever feels alone.”</b>
